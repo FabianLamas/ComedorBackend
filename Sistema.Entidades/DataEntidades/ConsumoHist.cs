@@ -20,6 +20,6 @@ namespace Sistema.Entidades.DataEntidades
         public string Legajo { get; set; }
         public string Nombre { get; set; }
         public string CentroCosto { get; set; }
-        public bool EsVisita { get; set; }
+        public Nullable<bool> EsVisita { get; set; }
     }
 }
