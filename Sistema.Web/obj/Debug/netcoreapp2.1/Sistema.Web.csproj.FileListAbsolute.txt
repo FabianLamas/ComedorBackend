@@ -1,0 +1,95 @@
+C:\Users\flamas\Desktop\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.deps.json
+C:\Users\flamas\Desktop\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.runtimeconfig.json
+C:\Users\flamas\Desktop\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.runtimeconfig.dev.json
+C:\Users\flamas\Desktop\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.dll
+C:\Users\flamas\Desktop\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.pdb
+C:\Users\flamas\Desktop\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Datos.dll
+C:\Users\flamas\Desktop\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Entidades.dll
+C:\Users\flamas\Desktop\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Datos.pdb
+C:\Users\flamas\Desktop\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Entidades.pdb
+C:\Users\flamas\Desktop\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csprojAssemblyReference.cache
+C:\Users\flamas\Desktop\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.CoreCompileInputs.cache
+C:\Users\flamas\Desktop\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorAssemblyInfo.cache
+C:\Users\flamas\Desktop\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorAssemblyInfo.cs
+C:\Users\flamas\Desktop\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.AssemblyInfoInputs.cache
+C:\Users\flamas\Desktop\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.AssemblyInfo.cs
+C:\Users\flamas\Desktop\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorTargetAssemblyInfo.cache
+C:\Users\flamas\Desktop\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.CopyComplete
+C:\Users\flamas\Desktop\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.dll
+C:\Users\flamas\Desktop\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.pdb
+C:\Users\flamas\Documents\Fabian\Test TGV ABM\fabian-lamas-abm\Sistema net core 2.1\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.deps.json
+C:\Users\flamas\Documents\Fabian\Test TGV ABM\fabian-lamas-abm\Sistema net core 2.1\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.runtimeconfig.json
+C:\Users\flamas\Documents\Fabian\Test TGV ABM\fabian-lamas-abm\Sistema net core 2.1\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.runtimeconfig.dev.json
+C:\Users\flamas\Documents\Fabian\Test TGV ABM\fabian-lamas-abm\Sistema net core 2.1\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.dll
+C:\Users\flamas\Documents\Fabian\Test TGV ABM\fabian-lamas-abm\Sistema net core 2.1\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.pdb
+C:\Users\flamas\Documents\Fabian\Test TGV ABM\fabian-lamas-abm\Sistema net core 2.1\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Datos.dll
+C:\Users\flamas\Documents\Fabian\Test TGV ABM\fabian-lamas-abm\Sistema net core 2.1\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Entidades.dll
+C:\Users\flamas\Documents\Fabian\Test TGV ABM\fabian-lamas-abm\Sistema net core 2.1\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Datos.pdb
+C:\Users\flamas\Documents\Fabian\Test TGV ABM\fabian-lamas-abm\Sistema net core 2.1\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Entidades.pdb
+C:\Users\flamas\Documents\Fabian\Test TGV ABM\fabian-lamas-abm\Sistema net core 2.1\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csprojAssemblyReference.cache
+C:\Users\flamas\Documents\Fabian\Test TGV ABM\fabian-lamas-abm\Sistema net core 2.1\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.CoreCompileInputs.cache
+C:\Users\flamas\Documents\Fabian\Test TGV ABM\fabian-lamas-abm\Sistema net core 2.1\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorAssemblyInfo.cache
+C:\Users\flamas\Documents\Fabian\Test TGV ABM\fabian-lamas-abm\Sistema net core 2.1\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorAssemblyInfo.cs
+C:\Users\flamas\Documents\Fabian\Test TGV ABM\fabian-lamas-abm\Sistema net core 2.1\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.AssemblyInfoInputs.cache
+C:\Users\flamas\Documents\Fabian\Test TGV ABM\fabian-lamas-abm\Sistema net core 2.1\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.AssemblyInfo.cs
+C:\Users\flamas\Documents\Fabian\Test TGV ABM\fabian-lamas-abm\Sistema net core 2.1\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorTargetAssemblyInfo.cache
+C:\Users\flamas\Documents\Fabian\Test TGV ABM\fabian-lamas-abm\Sistema net core 2.1\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.CopyComplete
+C:\Users\flamas\Documents\Fabian\Test TGV ABM\fabian-lamas-abm\Sistema net core 2.1\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.dll
+C:\Users\flamas\Documents\Fabian\Test TGV ABM\fabian-lamas-abm\Sistema net core 2.1\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.pdb
+C:\Users\flamas\Desktop\Sistema net core 2.1\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.deps.json
+C:\Users\flamas\Desktop\Sistema net core 2.1\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.runtimeconfig.json
+C:\Users\flamas\Desktop\Sistema net core 2.1\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.runtimeconfig.dev.json
+C:\Users\flamas\Desktop\Sistema net core 2.1\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.dll
+C:\Users\flamas\Desktop\Sistema net core 2.1\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.pdb
+C:\Users\flamas\Desktop\Sistema net core 2.1\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Datos.dll
+C:\Users\flamas\Desktop\Sistema net core 2.1\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Entidades.dll
+C:\Users\flamas\Desktop\Sistema net core 2.1\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Datos.pdb
+C:\Users\flamas\Desktop\Sistema net core 2.1\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Entidades.pdb
+C:\Users\flamas\Desktop\Sistema net core 2.1\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csprojAssemblyReference.cache
+C:\Users\flamas\Desktop\Sistema net core 2.1\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.CoreCompileInputs.cache
+C:\Users\flamas\Desktop\Sistema net core 2.1\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorAssemblyInfo.cache
+C:\Users\flamas\Desktop\Sistema net core 2.1\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorAssemblyInfo.cs
+C:\Users\flamas\Desktop\Sistema net core 2.1\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.AssemblyInfoInputs.cache
+C:\Users\flamas\Desktop\Sistema net core 2.1\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.AssemblyInfo.cs
+C:\Users\flamas\Desktop\Sistema net core 2.1\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorTargetAssemblyInfo.cache
+C:\Users\flamas\Desktop\Sistema net core 2.1\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.CopyComplete
+C:\Users\flamas\Desktop\Sistema net core 2.1\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.dll
+C:\Users\flamas\Desktop\Sistema net core 2.1\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.pdb
+C:\Users\flamas\Desktop\nuevos aplicativos\Plan de mejora - net core 2.1\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.deps.json
+C:\Users\flamas\Desktop\nuevos aplicativos\Plan de mejora - net core 2.1\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.runtimeconfig.json
+C:\Users\flamas\Desktop\nuevos aplicativos\Plan de mejora - net core 2.1\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.runtimeconfig.dev.json
+C:\Users\flamas\Desktop\nuevos aplicativos\Plan de mejora - net core 2.1\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.dll
+C:\Users\flamas\Desktop\nuevos aplicativos\Plan de mejora - net core 2.1\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.pdb
+C:\Users\flamas\Desktop\nuevos aplicativos\Plan de mejora - net core 2.1\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Datos.dll
+C:\Users\flamas\Desktop\nuevos aplicativos\Plan de mejora - net core 2.1\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Entidades.dll
+C:\Users\flamas\Desktop\nuevos aplicativos\Plan de mejora - net core 2.1\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Datos.pdb
+C:\Users\flamas\Desktop\nuevos aplicativos\Plan de mejora - net core 2.1\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Entidades.pdb
+C:\Users\flamas\Desktop\nuevos aplicativos\Plan de mejora - net core 2.1\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csprojAssemblyReference.cache
+C:\Users\flamas\Desktop\nuevos aplicativos\Plan de mejora - net core 2.1\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.CoreCompileInputs.cache
+C:\Users\flamas\Desktop\nuevos aplicativos\Plan de mejora - net core 2.1\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorAssemblyInfo.cache
+C:\Users\flamas\Desktop\nuevos aplicativos\Plan de mejora - net core 2.1\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorAssemblyInfo.cs
+C:\Users\flamas\Desktop\nuevos aplicativos\Plan de mejora - net core 2.1\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.AssemblyInfoInputs.cache
+C:\Users\flamas\Desktop\nuevos aplicativos\Plan de mejora - net core 2.1\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.AssemblyInfo.cs
+C:\Users\flamas\Desktop\nuevos aplicativos\Plan de mejora - net core 2.1\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorTargetAssemblyInfo.cache
+C:\Users\flamas\Desktop\nuevos aplicativos\Plan de mejora - net core 2.1\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.CopyComplete
+C:\Users\flamas\Desktop\nuevos aplicativos\Plan de mejora - net core 2.1\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.dll
+C:\Users\flamas\Desktop\nuevos aplicativos\Plan de mejora - net core 2.1\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.pdb
+C:\Users\flamas\Desktop\Comedor - net core 2.1\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.deps.json
+C:\Users\flamas\Desktop\Comedor - net core 2.1\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.runtimeconfig.json
+C:\Users\flamas\Desktop\Comedor - net core 2.1\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.runtimeconfig.dev.json
+C:\Users\flamas\Desktop\Comedor - net core 2.1\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.dll
+C:\Users\flamas\Desktop\Comedor - net core 2.1\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.pdb
+C:\Users\flamas\Desktop\Comedor - net core 2.1\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Datos.dll
+C:\Users\flamas\Desktop\Comedor - net core 2.1\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Entidades.dll
+C:\Users\flamas\Desktop\Comedor - net core 2.1\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Datos.pdb
+C:\Users\flamas\Desktop\Comedor - net core 2.1\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Entidades.pdb
+C:\Users\flamas\Desktop\Comedor - net core 2.1\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csprojAssemblyReference.cache
+C:\Users\flamas\Desktop\Comedor - net core 2.1\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.CoreCompileInputs.cache
+C:\Users\flamas\Desktop\Comedor - net core 2.1\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorAssemblyInfo.cache
+C:\Users\flamas\Desktop\Comedor - net core 2.1\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorAssemblyInfo.cs
+C:\Users\flamas\Desktop\Comedor - net core 2.1\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.AssemblyInfoInputs.cache
+C:\Users\flamas\Desktop\Comedor - net core 2.1\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.AssemblyInfo.cs
+C:\Users\flamas\Desktop\Comedor - net core 2.1\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorTargetAssemblyInfo.cache
+C:\Users\flamas\Desktop\Comedor - net core 2.1\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.CopyComplete
+C:\Users\flamas\Desktop\Comedor - net core 2.1\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.dll
+C:\Users\flamas\Desktop\Comedor - net core 2.1\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.pdb
