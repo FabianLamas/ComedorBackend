@@ -14,7 +14,7 @@ namespace Sistema.Entidades.DataEntidades
         public string INFO1 { get; set; }
         public string INFOA { get; set; }
         public string IMAIL { get; set; }
-        public DateTime FECALTA { get; set; }
-        public DateTime FECBAJA { get; set; }
+        public Nullable<DateTime> FECALTA { get; set; }
+        public Nullable<DateTime> FECBAJA { get; set; }
     }
 }
