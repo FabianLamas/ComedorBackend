@@ -3648,23 +3648,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\iclavero\\.nuget\\packages\\": {},
+    "C:\\Users\\flamas\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\iclavero\\Desktop\\vistacomedorBack\\ComedorBackend\\Sistema.Datos\\Sistema.Datos.csproj",
+      "projectUniqueName": "C:\\Users\\flamas\\Desktop\\Comedor - net core 2.1\\Sistema.Datos\\Sistema.Datos.csproj",
       "projectName": "Sistema.Datos",
-      "projectPath": "C:\\Users\\iclavero\\Desktop\\vistacomedorBack\\ComedorBackend\\Sistema.Datos\\Sistema.Datos.csproj",
-      "packagesPath": "C:\\Users\\iclavero\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\iclavero\\Desktop\\vistacomedorBack\\ComedorBackend\\Sistema.Datos\\obj\\",
+      "projectPath": "C:\\Users\\flamas\\Desktop\\Comedor - net core 2.1\\Sistema.Datos\\Sistema.Datos.csproj",
+      "packagesPath": "C:\\Users\\flamas\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\flamas\\Desktop\\Comedor - net core 2.1\\Sistema.Datos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\iclavero\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\flamas\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3677,8 +3677,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\iclavero\\Desktop\\vistacomedorBack\\ComedorBackend\\Sistema.Entidades\\Sistema.Entidades.csproj": {
-              "projectPath": "C:\\Users\\iclavero\\Desktop\\vistacomedorBack\\ComedorBackend\\Sistema.Entidades\\Sistema.Entidades.csproj"
+            "C:\\Users\\flamas\\Desktop\\Comedor - net core 2.1\\Sistema.Entidades\\Sistema.Entidades.csproj": {
+              "projectPath": "C:\\Users\\flamas\\Desktop\\Comedor - net core 2.1\\Sistema.Entidades\\Sistema.Entidades.csproj"
             }
           }
         }
@@ -3697,7 +3697,7 @@
             "version": "[2.1.0, )"
           },
           "Microsoft.EntityFrameworkCore.Tools": {
-            "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
             "suppressParent": "All",
             "target": "Package",
             "version": "[2.1.0, )"

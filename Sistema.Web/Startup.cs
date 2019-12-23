@@ -28,6 +28,7 @@ namespace Sistema.Web
         public void ConfigureServices(IServiceCollection services){
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
             services.AddDbContext<DbContextSistema>(options => options.UseSqlServer(Configuration.GetConnectionString("Conexion")));
+            services.AddDbContext<DbContextAccesos>(options => options.UseSqlServer(Configuration.GetConnectionString("SegundaConexion")));
             services.AddCors(options => {
                 options.AddPolicy(("Todos"),
                 builder => builder.WithOrigins("*").WithHeaders("*").WithMethods("*"));

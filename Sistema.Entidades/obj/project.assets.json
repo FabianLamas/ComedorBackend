@@ -688,23 +688,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\iclavero\\.nuget\\packages\\": {},
+    "C:\\Users\\flamas\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\iclavero\\Desktop\\vistacomedorBack\\ComedorBackend\\Sistema.Entidades\\Sistema.Entidades.csproj",
+      "projectUniqueName": "C:\\Users\\flamas\\Desktop\\Comedor - net core 2.1\\Sistema.Entidades\\Sistema.Entidades.csproj",
       "projectName": "Sistema.Entidades",
-      "projectPath": "C:\\Users\\iclavero\\Desktop\\vistacomedorBack\\ComedorBackend\\Sistema.Entidades\\Sistema.Entidades.csproj",
-      "packagesPath": "C:\\Users\\iclavero\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\iclavero\\Desktop\\vistacomedorBack\\ComedorBackend\\Sistema.Entidades\\obj\\",
+      "projectPath": "C:\\Users\\flamas\\Desktop\\Comedor - net core 2.1\\Sistema.Entidades\\Sistema.Entidades.csproj",
+      "packagesPath": "C:\\Users\\flamas\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\flamas\\Desktop\\Comedor - net core 2.1\\Sistema.Entidades\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\iclavero\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\flamas\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
