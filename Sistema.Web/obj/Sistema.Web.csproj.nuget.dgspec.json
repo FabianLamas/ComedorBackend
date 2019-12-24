@@ -1,24 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\flamas\\Desktop\\Comedor - net core 2.1\\Sistema.Web\\Sistema.Web.csproj": {}
+    "D:\\TGV\\nuevos aplicativos\\comedor\\ComedorBackend\\Sistema.Web\\Sistema.Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\flamas\\Desktop\\Comedor - net core 2.1\\Sistema.Datos\\Sistema.Datos.csproj": {
+    "D:\\TGV\\nuevos aplicativos\\comedor\\ComedorBackend\\Sistema.Datos\\Sistema.Datos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\flamas\\Desktop\\Comedor - net core 2.1\\Sistema.Datos\\Sistema.Datos.csproj",
+        "projectUniqueName": "D:\\TGV\\nuevos aplicativos\\comedor\\ComedorBackend\\Sistema.Datos\\Sistema.Datos.csproj",
         "projectName": "Sistema.Datos",
-        "projectPath": "C:\\Users\\flamas\\Desktop\\Comedor - net core 2.1\\Sistema.Datos\\Sistema.Datos.csproj",
-        "packagesPath": "C:\\Users\\flamas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\flamas\\Desktop\\Comedor - net core 2.1\\Sistema.Datos\\obj\\",
+        "projectPath": "D:\\TGV\\nuevos aplicativos\\comedor\\ComedorBackend\\Sistema.Datos\\Sistema.Datos.csproj",
+        "packagesPath": "C:\\Users\\Windows 10\\.nuget\\packages\\",
+        "outputPath": "D:\\TGV\\nuevos aplicativos\\comedor\\ComedorBackend\\Sistema.Datos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\flamas\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Windows 10\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.1"
@@ -30,8 +32,8 @@
         "frameworks": {
           "netcoreapp2.1": {
             "projectReferences": {
-              "C:\\Users\\flamas\\Desktop\\Comedor - net core 2.1\\Sistema.Entidades\\Sistema.Entidades.csproj": {
-                "projectPath": "C:\\Users\\flamas\\Desktop\\Comedor - net core 2.1\\Sistema.Entidades\\Sistema.Entidades.csproj"
+              "D:\\TGV\\nuevos aplicativos\\comedor\\ComedorBackend\\Sistema.Entidades\\Sistema.Entidades.csproj": {
+                "projectPath": "D:\\TGV\\nuevos aplicativos\\comedor\\ComedorBackend\\Sistema.Entidades\\Sistema.Entidades.csproj"
               }
             }
           }
@@ -63,28 +65,36 @@
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\flamas\\Desktop\\Comedor - net core 2.1\\Sistema.Entidades\\Sistema.Entidades.csproj": {
+    "D:\\TGV\\nuevos aplicativos\\comedor\\ComedorBackend\\Sistema.Entidades\\Sistema.Entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\flamas\\Desktop\\Comedor - net core 2.1\\Sistema.Entidades\\Sistema.Entidades.csproj",
+        "projectUniqueName": "D:\\TGV\\nuevos aplicativos\\comedor\\ComedorBackend\\Sistema.Entidades\\Sistema.Entidades.csproj",
         "projectName": "Sistema.Entidades",
-        "projectPath": "C:\\Users\\flamas\\Desktop\\Comedor - net core 2.1\\Sistema.Entidades\\Sistema.Entidades.csproj",
-        "packagesPath": "C:\\Users\\flamas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\flamas\\Desktop\\Comedor - net core 2.1\\Sistema.Entidades\\obj\\",
+        "projectPath": "D:\\TGV\\nuevos aplicativos\\comedor\\ComedorBackend\\Sistema.Entidades\\Sistema.Entidades.csproj",
+        "packagesPath": "C:\\Users\\Windows 10\\.nuget\\packages\\",
+        "outputPath": "D:\\TGV\\nuevos aplicativos\\comedor\\ComedorBackend\\Sistema.Entidades\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\flamas\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Windows 10\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.1"
@@ -115,28 +125,36 @@
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\flamas\\Desktop\\Comedor - net core 2.1\\Sistema.Web\\Sistema.Web.csproj": {
+    "D:\\TGV\\nuevos aplicativos\\comedor\\ComedorBackend\\Sistema.Web\\Sistema.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\flamas\\Desktop\\Comedor - net core 2.1\\Sistema.Web\\Sistema.Web.csproj",
+        "projectUniqueName": "D:\\TGV\\nuevos aplicativos\\comedor\\ComedorBackend\\Sistema.Web\\Sistema.Web.csproj",
         "projectName": "Sistema.Web",
-        "projectPath": "C:\\Users\\flamas\\Desktop\\Comedor - net core 2.1\\Sistema.Web\\Sistema.Web.csproj",
-        "packagesPath": "C:\\Users\\flamas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\flamas\\Desktop\\Comedor - net core 2.1\\Sistema.Web\\obj\\",
+        "projectPath": "D:\\TGV\\nuevos aplicativos\\comedor\\ComedorBackend\\Sistema.Web\\Sistema.Web.csproj",
+        "packagesPath": "C:\\Users\\Windows 10\\.nuget\\packages\\",
+        "outputPath": "D:\\TGV\\nuevos aplicativos\\comedor\\ComedorBackend\\Sistema.Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\flamas\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Windows 10\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.1"
@@ -148,11 +166,11 @@
         "frameworks": {
           "netcoreapp2.1": {
             "projectReferences": {
-              "C:\\Users\\flamas\\Desktop\\Comedor - net core 2.1\\Sistema.Datos\\Sistema.Datos.csproj": {
-                "projectPath": "C:\\Users\\flamas\\Desktop\\Comedor - net core 2.1\\Sistema.Datos\\Sistema.Datos.csproj"
+              "D:\\TGV\\nuevos aplicativos\\comedor\\ComedorBackend\\Sistema.Datos\\Sistema.Datos.csproj": {
+                "projectPath": "D:\\TGV\\nuevos aplicativos\\comedor\\ComedorBackend\\Sistema.Datos\\Sistema.Datos.csproj"
               },
-              "C:\\Users\\flamas\\Desktop\\Comedor - net core 2.1\\Sistema.Entidades\\Sistema.Entidades.csproj": {
-                "projectPath": "C:\\Users\\flamas\\Desktop\\Comedor - net core 2.1\\Sistema.Entidades\\Sistema.Entidades.csproj"
+              "D:\\TGV\\nuevos aplicativos\\comedor\\ComedorBackend\\Sistema.Entidades\\Sistema.Entidades.csproj": {
+                "projectPath": "D:\\TGV\\nuevos aplicativos\\comedor\\ComedorBackend\\Sistema.Entidades\\Sistema.Entidades.csproj"
               }
             }
           }
@@ -189,10 +207,16 @@
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

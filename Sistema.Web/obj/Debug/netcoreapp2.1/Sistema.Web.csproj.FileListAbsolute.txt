@@ -112,3 +112,24 @@ C:\Users\iclavero\Desktop\vistacomedorBack\ComedorBackend\Sistema.Web\obj\Debug\
 C:\Users\iclavero\Desktop\vistacomedorBack\ComedorBackend\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.CopyComplete
 C:\Users\iclavero\Desktop\vistacomedorBack\ComedorBackend\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.dll
 C:\Users\iclavero\Desktop\vistacomedorBack\ComedorBackend\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.pdb
+D:\TGV\nuevos aplicativos\comedor\ComedorBackend\Sistema.Web\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\TGV\nuevos aplicativos\comedor\ComedorBackend\Sistema.Web\bin\Debug\netcoreapp2.1\appsettings.json
+D:\TGV\nuevos aplicativos\comedor\ComedorBackend\Sistema.Web\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\TGV\nuevos aplicativos\comedor\ComedorBackend\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.deps.json
+D:\TGV\nuevos aplicativos\comedor\ComedorBackend\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.runtimeconfig.json
+D:\TGV\nuevos aplicativos\comedor\ComedorBackend\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.runtimeconfig.dev.json
+D:\TGV\nuevos aplicativos\comedor\ComedorBackend\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.dll
+D:\TGV\nuevos aplicativos\comedor\ComedorBackend\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.pdb
+D:\TGV\nuevos aplicativos\comedor\ComedorBackend\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Datos.dll
+D:\TGV\nuevos aplicativos\comedor\ComedorBackend\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Entidades.dll
+D:\TGV\nuevos aplicativos\comedor\ComedorBackend\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Datos.pdb
+D:\TGV\nuevos aplicativos\comedor\ComedorBackend\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Entidades.pdb
+D:\TGV\nuevos aplicativos\comedor\ComedorBackend\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csprojAssemblyReference.cache
+D:\TGV\nuevos aplicativos\comedor\ComedorBackend\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorAssemblyInfo.cache
+D:\TGV\nuevos aplicativos\comedor\ComedorBackend\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorAssemblyInfo.cs
+D:\TGV\nuevos aplicativos\comedor\ComedorBackend\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.AssemblyInfoInputs.cache
+D:\TGV\nuevos aplicativos\comedor\ComedorBackend\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.AssemblyInfo.cs
+D:\TGV\nuevos aplicativos\comedor\ComedorBackend\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorTargetAssemblyInfo.cache
+D:\TGV\nuevos aplicativos\comedor\ComedorBackend\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.CopyComplete
+D:\TGV\nuevos aplicativos\comedor\ComedorBackend\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.dll
+D:\TGV\nuevos aplicativos\comedor\ComedorBackend\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.pdb
