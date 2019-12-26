@@ -95,3 +95,17 @@ D:\TGV\nuevos aplicativos\comedor\ComedorBackend\Sistema.Datos\obj\Debug\netcore
 D:\TGV\nuevos aplicativos\comedor\ComedorBackend\Sistema.Datos\obj\Debug\netcoreapp2.1\Sistema.Datos.csproj.CopyComplete
 D:\TGV\nuevos aplicativos\comedor\ComedorBackend\Sistema.Datos\obj\Debug\netcoreapp2.1\Sistema.Datos.dll
 D:\TGV\nuevos aplicativos\comedor\ComedorBackend\Sistema.Datos\obj\Debug\netcoreapp2.1\Sistema.Datos.pdb
+C:\Users\flamas\Desktop\vistacomedor\final final\ComedorBackend\Sistema.Datos\bin\Debug\netcoreapp2.1\Sistema.Datos.deps.json
+C:\Users\flamas\Desktop\vistacomedor\final final\ComedorBackend\Sistema.Datos\bin\Debug\netcoreapp2.1\Sistema.Datos.runtimeconfig.json
+C:\Users\flamas\Desktop\vistacomedor\final final\ComedorBackend\Sistema.Datos\bin\Debug\netcoreapp2.1\Sistema.Datos.runtimeconfig.dev.json
+C:\Users\flamas\Desktop\vistacomedor\final final\ComedorBackend\Sistema.Datos\bin\Debug\netcoreapp2.1\Sistema.Datos.dll
+C:\Users\flamas\Desktop\vistacomedor\final final\ComedorBackend\Sistema.Datos\bin\Debug\netcoreapp2.1\Sistema.Datos.pdb
+C:\Users\flamas\Desktop\vistacomedor\final final\ComedorBackend\Sistema.Datos\bin\Debug\netcoreapp2.1\Sistema.Entidades.dll
+C:\Users\flamas\Desktop\vistacomedor\final final\ComedorBackend\Sistema.Datos\bin\Debug\netcoreapp2.1\Sistema.Entidades.pdb
+C:\Users\flamas\Desktop\vistacomedor\final final\ComedorBackend\Sistema.Datos\obj\Debug\netcoreapp2.1\Sistema.Datos.csprojAssemblyReference.cache
+C:\Users\flamas\Desktop\vistacomedor\final final\ComedorBackend\Sistema.Datos\obj\Debug\netcoreapp2.1\Sistema.Datos.csproj.CoreCompileInputs.cache
+C:\Users\flamas\Desktop\vistacomedor\final final\ComedorBackend\Sistema.Datos\obj\Debug\netcoreapp2.1\Sistema.Datos.AssemblyInfoInputs.cache
+C:\Users\flamas\Desktop\vistacomedor\final final\ComedorBackend\Sistema.Datos\obj\Debug\netcoreapp2.1\Sistema.Datos.AssemblyInfo.cs
+C:\Users\flamas\Desktop\vistacomedor\final final\ComedorBackend\Sistema.Datos\obj\Debug\netcoreapp2.1\Sistema.Datos.csproj.CopyComplete
+C:\Users\flamas\Desktop\vistacomedor\final final\ComedorBackend\Sistema.Datos\obj\Debug\netcoreapp2.1\Sistema.Datos.dll
+C:\Users\flamas\Desktop\vistacomedor\final final\ComedorBackend\Sistema.Datos\obj\Debug\netcoreapp2.1\Sistema.Datos.pdb

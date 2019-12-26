@@ -33,6 +33,7 @@ namespace Sistema.Web
                 options.AddPolicy(("Todos"),
                 builder => builder.WithOrigins("*").WithHeaders("*").WithMethods("*"));
             });
+            services.AddMvc();
         }
 
 
@@ -50,7 +51,11 @@ namespace Sistema.Web
 
             app.UseCors("Todos");
             app.UseHttpsRedirection();
-            app.UseMvc();
+            app.UseStaticFiles();
+            app.UseMvc( routes => {
+                routes.MapRoute(name: "default", template: "{controller=Home}/{action=Index}/{id?}");
+                routes.MapSpaFallbackRoute(name: "spa-fallback", defaults: new { controller = "Home", action = "Index" });
+            });
         }
     }
 }

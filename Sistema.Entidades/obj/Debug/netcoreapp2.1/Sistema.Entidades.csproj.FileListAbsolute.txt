@@ -50,3 +50,12 @@ D:\TGV\nuevos aplicativos\comedor\ComedorBackend\Sistema.Entidades\obj\Debug\net
 D:\TGV\nuevos aplicativos\comedor\ComedorBackend\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.AssemblyInfo.cs
 D:\TGV\nuevos aplicativos\comedor\ComedorBackend\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.dll
 D:\TGV\nuevos aplicativos\comedor\ComedorBackend\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.pdb
+C:\Users\flamas\Desktop\vistacomedor\final final\ComedorBackend\Sistema.Entidades\bin\Debug\netcoreapp2.1\Sistema.Entidades.deps.json
+C:\Users\flamas\Desktop\vistacomedor\final final\ComedorBackend\Sistema.Entidades\bin\Debug\netcoreapp2.1\Sistema.Entidades.dll
+C:\Users\flamas\Desktop\vistacomedor\final final\ComedorBackend\Sistema.Entidades\bin\Debug\netcoreapp2.1\Sistema.Entidades.pdb
+C:\Users\flamas\Desktop\vistacomedor\final final\ComedorBackend\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.csprojAssemblyReference.cache
+C:\Users\flamas\Desktop\vistacomedor\final final\ComedorBackend\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\flamas\Desktop\vistacomedor\final final\ComedorBackend\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.AssemblyInfoInputs.cache
+C:\Users\flamas\Desktop\vistacomedor\final final\ComedorBackend\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.AssemblyInfo.cs
+C:\Users\flamas\Desktop\vistacomedor\final final\ComedorBackend\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.dll
+C:\Users\flamas\Desktop\vistacomedor\final final\ComedorBackend\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.pdb
